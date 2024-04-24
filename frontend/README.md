@@ -20,7 +20,7 @@ Then this project will run on port `3000`
 ## Tests
 For unit tests this project uses [jest](https://jestjs.io/) simply run:
 ```bash
-npm run test:jest
+npm run test
 ```
 
 All jest tests are located in the `test` directory at the root of this project.
